@@ -1,0 +1,7 @@
+* przerobić LogWrapper na klasę logowania
+* poprawić ActiveRecord (sprawdzanie pod kątem błędów)
+* rewizja Database
+* tryb development
+* dokończyć security
+ \ zrewizować / usunąć ACL
+* Dokończyć sesje
